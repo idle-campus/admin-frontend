@@ -1,1 +1,1 @@
-## idle-campus 后台前端界面
+## idle-campus 后台前端项目
